@@ -1,7 +1,7 @@
 # Java-API-Rest-Pattern-Srping-Boot
 
-Esta aplicación se construyó basada en el patrón API Rest y es un backend para contar goles en equipos de fútbol, es decir, hacer CRUD básicamente y teniendo en cuenta la relación de las entidades con JPA.
+This application was built API Rest pattern based and is a backend for counting goals in a football teams, that is, make CRUD basically and keeping mind the entities relationship wit JPA.
 
-El proyecto debe comenzar como proyecto de arranque de primavera.
+The project must start as spring boot project.
 
-Hay un documento que explica cómo funciona en el repositorio de github.
+There is a document that explain how to works it in the github repository.
